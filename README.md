@@ -1,6 +1,6 @@
 # RecipeApp
 
-RecipeApp is a modern Android application developed with **Jetpack Compose**, designed to browse and search food recipes using the **Food2Fork API**. It features a paginated recipe list, keyword-based search, and detailed views for each recipe. Built as part of a **technical interview project**, the app follows clean architecture principles using **MVVM**, **Retrofit**, and **StateFlow**.
+RecipeApp is an Android application developed with **Jetpack Compose**, designed to browse and search food recipes using the **Food2Fork API**. It features a paginated recipe list, keyword-based search, and detailed views for each recipe. Built as part of a **technical interview project**, the app follows clean architecture principles using **MVVM**, **Retrofit**, and **StateFlow**.
 
 
 ---
