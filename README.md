@@ -2,14 +2,23 @@
 
 RecipeApp is a modern Android application developed with **Jetpack Compose**, designed to browse and search food recipes using the **Food2Fork API**. It features a paginated recipe list, keyword-based search, and detailed views for each recipe. Built as part of a **technical interview project**, the app follows clean architecture principles using **MVVM**, **Retrofit**, and **StateFlow**.
 
+
 ---
 
-## 🎥 Demo
 
-Watch the full app demo here:  
-📺 [YouTube Demo Video](https://www.youtube.com/watch?v=your_demo_video_link_here)
+## ✨ Features
 
-> Demonstrates searching, pagination, and navigating to detailed recipe information.
+| Feature                   | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| **Search Recipes**         | Search for recipes by name using the Food2Fork API.                        |
+| **Recipe Details**         | View full details of a selected recipe including ingredients and source URL.|
+| **Pagination Support**     | Supports loading additional recipes across multiple pages.                 |
+| **Jetpack Compose UI**     | Built with a modern declarative UI approach using Jetpack Compose.         |
+| **Image Loading with Coil**| Efficient image loading and caching using the Coil library.                |
+| **Error Handling**         | Graceful handling of network errors and edge cases with proper UI feedback.|
+| **MVVM Architecture**      | Clean architecture with ViewModel, Repository, and StateFlow.              |
+| **Reactive State Management** | Uses Kotlin Coroutines and StateFlow to manage UI state.                |
+
 
 ---
 
@@ -29,7 +38,7 @@ Watch the full app demo here:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer             | Tools / Libraries                          |
 |------------------|--------------------------------------------|
@@ -44,8 +53,3 @@ Watch the full app demo here:
 
 ---
 
-## 🛠 Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/RecipeApp.git
