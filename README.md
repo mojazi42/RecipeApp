@@ -24,7 +24,7 @@ Watch the full app demo here:
 | Home Screen | Search Results | Recipe Detail |
 |-------------|----------------|----------------|
 | ![Screenshot_20250618_045452_Recipe App](https://github.com/user-attachments/assets/6b5a97ef-6d74-4816-bc6b-a4b4f1428904) | ![Screenshot_20250618_043527_Recipe App](https://github.com/user-attachments/assets/7ee5d403-ad87-43c9-b8b3-77717feb38f3) | ![Screenshot_20250618_050208_Recipe App](https://github.com/user-attachments/assets/c6222b33-9991-4203-8198-eb0e52dda7d7)
-![Screenshot_20250618_050208_Recipe App](https://github.com/user-attachments/assets/c6222b33-9991-4203-8198-eb0e52dda7d7) |
+
 | Displays a list of recipes with pagination support. | Shows filtered recipes based on user input. | Displays complete recipe details including image, ingredients, and source link. |
 
 ---
